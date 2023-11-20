@@ -1,4 +1,3 @@
-Aquí te presento un ejemplo de readme que puedes utilizar para documentar tu solución al proyecto sobre el aplicativo de gestión de tipos de pasta en GitHub:
 
 # Aplicativo Gestión de Tipos de Pasta
 
