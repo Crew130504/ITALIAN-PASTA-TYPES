@@ -1,0 +1,17 @@
+-- Crear la base de datos primer_parcial si no existe
+CREATE DATABASE IF NOT EXISTS primer_parcial;
+
+-- Usar la base de datos primer_parcial
+USE primer_parcial;
+
+-- Crear la tabla pastas sin una clave primaria
+CREATE TABLE IF NOT EXISTS pastas (
+    nombre VARCHAR(25) NOT NULL,
+    forma VARCHAR(50),
+    maridaje VARCHAR(125),
+    platoPrincipal VARCHAR(125),
+    variedad VARCHAR(6),
+    ciudad VARCHAR(10),
+    imagen VARCHAR(125),
+    receta VARCHAR(125)
+);
