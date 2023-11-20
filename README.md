@@ -59,4 +59,4 @@ Juan Pablo Angulo Guerrero-20222020099
 
 ## Licencia
 
-Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto se encuentra bajo la Licencia GNU General Public License v3.0.
